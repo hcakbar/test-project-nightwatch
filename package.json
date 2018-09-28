@@ -1,0 +1,15 @@
+{
+  "name": "test-project-nightwatch",
+  "version": "1.0.0",
+  "description": "Demo nightwatch tests",
+  "main": "myAppTests.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "author": "akbar",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "nightwatch": "^0.9.21"
+  }
+}
